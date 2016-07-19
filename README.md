@@ -85,3 +85,5 @@ To setup this project in Jenkins, use the following configuration:
 [Karma]: http://karma-runner.github.io/
 [Jasmine]: http://jasmine.github.io/2.0/introduction.html
 [Protractor]: https://angular.github.io/protractor/
+[TravisCI]: https://docs.travis-ci.com/user/languages/java#Projects-Using-Gradle
+[Sonarqube with Travis CI]: https://docs.travis-ci.com/user/sonarqube/
